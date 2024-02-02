@@ -6,8 +6,8 @@ The human body is detected with the help of the Mediapipe library. Then, using t
 
 Sit-Up Exercise
 Sit-Up
+![image](https://github.com/PRABAKAR57/PERSONAL_AI_GYM_TRAINER/assets/111855641/44f948f1-e25c-48d1-81b5-b1f702bc2e04)
 
-Video: https://www.youtube.com/watch?v=aQh52cRfH-w
 
 The sit-up is an abdominal endurance training exercise to strengthen, tighten and tone the abdominal muscles. It is similar to a crunch, but sit-ups have a fuller range of motion and condition additional muscles.
 
