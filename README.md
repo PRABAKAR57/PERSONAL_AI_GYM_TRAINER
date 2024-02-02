@@ -7,7 +7,7 @@
 ## Sit-Up Exercise
 ![Sit-Up](https://github.com/Furkan-Gulsen/Sport-With-AI/blob/main/output/output%20sit-up.gif)
 
-Video: https://www.youtube.com/watch?v=aQh52cRfH-w
+
 
 The sit-up is an abdominal endurance training exercise to strengthen, tighten and tone the abdominal muscles. It is similar to a crunch, but sit-ups have a fuller range of motion and condition additional muscles.
 ```
