@@ -18,7 +18,7 @@ python main.py -t sit-up -vs videos/sit-up.mp4
 ## Pull-Up Exercise
 ![Pull-Up](https://github.com/Furkan-Gulsen/Sport-With-AI/blob/main/output/output%20pull-up.gif?raw=true)
 
-Video: https://www.youtube.com/watch?v=8hkTMATEuUc
+
 
 A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up. As this happens, the elbows flex and the shoulders adduct and extend to bring the elbows to the torso.
 ```
@@ -29,7 +29,7 @@ python main.py -t pull-up -vs videos/pull-up.mp4
 ## Push-Up Exercise
 ![Push-Up](https://github.com/Furkan-Gulsen/Sport-With-AI/blob/main/output/output%20push-up.gif?raw=true)
 
-Video: https://www.youtube.com/watch?v=IGjHIXAZAak
+
 
 A push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole. 
 ```
